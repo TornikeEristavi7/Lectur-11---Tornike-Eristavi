@@ -16,6 +16,7 @@
 		0C1863002BE0DF9F00E92ED3 /* somefile2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C1862FF2BE0DF9F00E92ED3 /* somefile2.swift */; };
 		0C1863022BE0E0F200E92ED3 /* Tornikefile123.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C1863012BE0E0F200E92ED3 /* Tornikefile123.swift */; };
 		0C1863042BE0E14100E92ED3 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C1863032BE0E14000E92ED3 /* ViewController.swift */; };
+		0C1863062BE0E19E00E92ED3 /* File5.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C1863052BE0E19E00E92ED3 /* File5.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		0C1862FF2BE0DF9F00E92ED3 /* somefile2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = somefile2.swift; sourceTree = "<group>"; };
 		0C1863012BE0E0F200E92ED3 /* Tornikefile123.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tornikefile123.swift; sourceTree = "<group>"; };
 		0C1863032BE0E14000E92ED3 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		0C1863052BE0E19E00E92ED3 /* File5.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = File5.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				0C1862FF2BE0DF9F00E92ED3 /* somefile2.swift */,
 				0C1863012BE0E0F200E92ED3 /* Tornikefile123.swift */,
 				0C1862EA2BE0DF6500E92ED3 /* SceneDelegate.swift */,
+				0C1863052BE0E19E00E92ED3 /* File5.swift */,
 				0C1863032BE0E14000E92ED3 /* ViewController.swift */,
 				0C1862EE2BE0DF6500E92ED3 /* Main.storyboard */,
 				0C1862F42BE0DF6600E92ED3 /* Assets.xcassets */,
@@ -151,6 +154,7 @@
 				0C1862F32BE0DF6500E92ED3 /* Lectur_11___Tornike_Eristavi.xcdatamodeld in Sources */,
 				0C1862E92BE0DF6500E92ED3 /* AppDelegate.swift in Sources */,
 				0C1863022BE0E0F200E92ED3 /* Tornikefile123.swift in Sources */,
+				0C1863062BE0E19E00E92ED3 /* File5.swift in Sources */,
 				0C1863002BE0DF9F00E92ED3 /* somefile2.swift in Sources */,
 				0C1862EB2BE0DF6500E92ED3 /* SceneDelegate.swift in Sources */,
 			);
