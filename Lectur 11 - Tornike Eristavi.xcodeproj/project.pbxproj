@@ -9,20 +9,19 @@
 /* Begin PBXBuildFile section */
 		0C1862E92BE0DF6500E92ED3 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C1862E82BE0DF6500E92ED3 /* AppDelegate.swift */; };
 		0C1862EB2BE0DF6500E92ED3 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C1862EA2BE0DF6500E92ED3 /* SceneDelegate.swift */; };
-		0C1862ED2BE0DF6500E92ED3 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C1862EC2BE0DF6500E92ED3 /* ViewController.swift */; };
 		0C1862F02BE0DF6500E92ED3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0C1862EE2BE0DF6500E92ED3 /* Main.storyboard */; };
 		0C1862F32BE0DF6500E92ED3 /* Lectur_11___Tornike_Eristavi.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 0C1862F12BE0DF6500E92ED3 /* Lectur_11___Tornike_Eristavi.xcdatamodeld */; };
 		0C1862F52BE0DF6600E92ED3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0C1862F42BE0DF6600E92ED3 /* Assets.xcassets */; };
 		0C1862F82BE0DF6600E92ED3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0C1862F62BE0DF6600E92ED3 /* LaunchScreen.storyboard */; };
 		0C1863002BE0DF9F00E92ED3 /* somefile2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C1862FF2BE0DF9F00E92ED3 /* somefile2.swift */; };
 		0C1863022BE0E0F200E92ED3 /* Tornikefile123.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C1863012BE0E0F200E92ED3 /* Tornikefile123.swift */; };
+		0C1863042BE0E14100E92ED3 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C1863032BE0E14000E92ED3 /* ViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		0C1862E52BE0DF6500E92ED3 /* Lectur 11 - Tornike Eristavi.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Lectur 11 - Tornike Eristavi.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		0C1862E82BE0DF6500E92ED3 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		0C1862EA2BE0DF6500E92ED3 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		0C1862EC2BE0DF6500E92ED3 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		0C1862EF2BE0DF6500E92ED3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		0C1862F22BE0DF6500E92ED3 /* Lectur_11___Tornike_Eristavi.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = "Lectur_11___Tornike_Eristavi.xcdatamodel"; sourceTree = "<group>"; };
 		0C1862F42BE0DF6600E92ED3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -30,6 +29,7 @@
 		0C1862F92BE0DF6600E92ED3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		0C1862FF2BE0DF9F00E92ED3 /* somefile2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = somefile2.swift; sourceTree = "<group>"; };
 		0C1863012BE0E0F200E92ED3 /* Tornikefile123.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tornikefile123.swift; sourceTree = "<group>"; };
+		0C1863032BE0E14000E92ED3 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,7 +66,7 @@
 				0C1862FF2BE0DF9F00E92ED3 /* somefile2.swift */,
 				0C1863012BE0E0F200E92ED3 /* Tornikefile123.swift */,
 				0C1862EA2BE0DF6500E92ED3 /* SceneDelegate.swift */,
-				0C1862EC2BE0DF6500E92ED3 /* ViewController.swift */,
+				0C1863032BE0E14000E92ED3 /* ViewController.swift */,
 				0C1862EE2BE0DF6500E92ED3 /* Main.storyboard */,
 				0C1862F42BE0DF6600E92ED3 /* Assets.xcassets */,
 				0C1862F62BE0DF6600E92ED3 /* LaunchScreen.storyboard */,
@@ -147,8 +147,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0C1863042BE0E14100E92ED3 /* ViewController.swift in Sources */,
 				0C1862F32BE0DF6500E92ED3 /* Lectur_11___Tornike_Eristavi.xcdatamodeld in Sources */,
-				0C1862ED2BE0DF6500E92ED3 /* ViewController.swift in Sources */,
 				0C1862E92BE0DF6500E92ED3 /* AppDelegate.swift in Sources */,
 				0C1863022BE0E0F200E92ED3 /* Tornikefile123.swift in Sources */,
 				0C1863002BE0DF9F00E92ED3 /* somefile2.swift in Sources */,
