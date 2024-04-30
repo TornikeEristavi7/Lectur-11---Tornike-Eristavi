@@ -8,3 +8,8 @@
 import Foundation
 
 //adasdasdda
+//newchanges
+
+
+var somelecture = 11
+
